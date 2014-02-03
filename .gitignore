@@ -1,0 +1,20 @@
+# Compiled object files.
+*.slo
+*.lo
+*.o
+
+# Compiled dynamic libraries.
+*.so
+*.dylib
+
+# Compiled static libraries.
+*.lai
+*.la
+*.a
+
+# Compiled translation files.
+*.qm
+
+# User files.
+*.user
+
