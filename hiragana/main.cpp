@@ -2,6 +2,7 @@
 #include <QTextCodec>
 #include <QTranslator>
 #include <QLocale>
+#include <QDebug>
 
 #include "WMain.h"
 
@@ -10,12 +11,9 @@ int main(int argc, char *argv[])
     // Running application.
     QApplication a(argc, argv);
 
-    // Loading UTF-8 codec.
-    QTextCodec::setCodecForCStrings(QTextCodec::codecForName("UTF-8"));
-
     // Loading translation.
     QTranslator translator;
-    translator.load(QLocale::system().name(), "lang/");
+    translator.load("hiragana_" + QLocale::system().name() + ".qm");
     a.installTranslator(&translator);
 
     // Showing window.
