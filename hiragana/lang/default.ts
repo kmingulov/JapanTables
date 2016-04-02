@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
+<TS version="2.1">
 <context>
     <name>WMain</name>
     <message>
@@ -112,16 +112,7 @@
     </message>
     <message>
         <location filename="../WMain.ui" line="425"/>
-        <source>&lt;html&gt;
-
-&lt;p&gt;&lt;b&gt;Hiragana Tables&lt;/b&gt;. &lt;i&gt;Version:&lt;/i&gt; 0.1.&lt;/p&gt;
-
-&lt;p&gt;Hiragana Tables is small, tiny and helpful program for those, who have just began study Japanese and need to learn Hiragana. By this program it&apos;s possible to simple generate and print tables with hiragana letters for training.&lt;/p&gt;
-
-&lt;p&gt;If you find any bug, please share information with developer &lt;a href=&quot;https://github.com/Melkogotto/JapanTables/issues&quot;&gt;on GitHub site&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Hiragana Tables is part of &lt;b&gt;Japan Tables&lt;/b&gt; project, which is OpenSource and licensed under GNU GPL v2. You can find source code also &lt;a href=&quot;https://github.com/Melkogotto/JapanTables&quot;&gt;on GitHub site&lt;/a&gt;.&lt;/p&gt;
-&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Hiragana Tables&lt;/span&gt;. &lt;span style=&quot; font-style:italic;&quot;&gt;Version:&lt;/span&gt; 0.1.1.&lt;/p&gt;&lt;p&gt;Hiragana Tables is a small, tiny and helpful program for those, who have just began study Japanese and need to learn Hiragana. By this program it&apos;s possible to simply generate and print tables with hiragana letters for training. &lt;/p&gt;&lt;p&gt;If you find any bug, please share information about it &lt;a href=&quot;https://github.com/kmingulov/JapanTables/issues&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;on the GitHub site&lt;/span&gt;&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;Hiragana Tables is a part of &lt;span style=&quot; font-weight:600;&quot;&gt;Japan Tables&lt;/span&gt; project, which is OpenSource and licensed under GNU GPL v2. You can find source code also &lt;a href=&quot;https://github.com/kmingulov/JapanTables&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;on the GitHub site&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
